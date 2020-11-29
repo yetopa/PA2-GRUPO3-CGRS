@@ -34,10 +34,10 @@ URL: http://localhost:8024/
 ## Consola web de Axon 
 ![](2020-11-29-16-08-39.png)
 
-## Commanda
+## Commands
 ![](2020-11-29-17-16-04.png)
 
-## Quries
+## Queries
 ![](2020-11-29-17-17-23.png)
 
 # Pruebas
